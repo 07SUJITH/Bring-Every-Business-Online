@@ -1,0 +1,34 @@
+Welcome to Our Restaurant Website!
+
+Thank you for visiting our restaurant website! This is the perfect place to discover everything you need to know about our establishment. Whether you're looking for information about our menu, hours of operation, or how to make a reservation, you've come to the right place. In this document, we'll guide you through the different sections of our website and provide you with all the information you need to have a fantastic dining experience. Let's get started!
+
+Home
+
+The Home page of our website serves as a warm welcome to our restaurant. Here, you'll find a visually appealing layout that showcases our restaurant's ambiance and highlights our signature dishes. You can also find a brief introduction about our restaurant's history, mission, and values. If you're new to our establishment, this section is a great place to start.
+
+Menu
+
+Our Menu page is where you can explore the wide range of delicious dishes we offer. From appetizers to main courses, desserts, and beverages, we have something for everyone. Each item on our menu comes with a detailed description, allowing you to get a sense of the flavors and ingredients that make up our dishes. We also provide information about any special dietary options, such as gluten-free or vegetarian dishes. Don't forget to check out our chef's specials, which are updated regularly to showcase seasonal ingredients and innovative culinary creations.
+
+About Us
+
+The About Us page provides you with a deeper insight into our restaurant. You'll learn about our journey, the talented individuals who make up our team, and our commitment to providing exceptional service and high-quality food. We take pride in sourcing fresh, locally-sourced ingredients and supporting local farmers and suppliers. Our dedication to sustainability and community involvement is also highlighted in this section.
+
+Contact
+
+If you have any additional questions, feedback, or inquiries, please visit the Contact page. Here, you'll find our contact information, including our phone number, email address, and physical address. You can reach out to us directly through the provided channels, and our friendly staff will be more than happy to assist you. Whether you want to inquire about private events, catering services, or simply share your dining experience, we value your feedback and are here to help.
+
+Social Media and Newsletter
+To stay updated with the latest news, promotions, and events at our restaurant, we encourage you to connect with us on social media and subscribe to our newsletter. Our social media channels provide a glimpse into our daily operations, behind-the-scenes moments, and featured dishes. By subscribing to our newsletter, you'll receive exclusive offers, discounts, and updates straight to your inbox.
+We hope this guide has provided you with a comprehensive overview of our restaurant website. Feel free to explore and discover all the hidden gems and details we have to offer. We look forward to welcoming you to our restaurant and providing you with a memorable dining experience!
+
+
+
+note 
+----
+"This website has been developed in fulfillment of the task 'Bring every business online,' as assigned during the Mulearn Learning Fest event.
+Please note that this is not the official website at present. 
+Consider it as a model of a restaurant website. Prices and dishes mentioned may vary over time. 
+As there is currently no admin panel, updates can only be done through the developer.
+This is the stable version 1.0, created on 12-11-2023 by Sujith T S.
+"

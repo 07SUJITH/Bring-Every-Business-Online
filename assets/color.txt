@@ -1,0 +1,2 @@
+bodyColor: #4ecca3
+textColor:#505762
